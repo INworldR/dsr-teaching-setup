@@ -8,7 +8,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 ### Collaborators
 |Name     |  Github Page   |  Personal Website  |
 |---------|-----------------|--------------------|
-|Marc Haenle| [INworldR](https://github.com/INworldR) |
+|Marc Haenle| [INworldR](https://github.com/INworldR) | [LinkedIn](https://www.linkedin.com/in/marc-haenle/) and [book me](https://book.morgen.so/haenle)|
 
 ### Methods Used
 * Inferential Statistics
