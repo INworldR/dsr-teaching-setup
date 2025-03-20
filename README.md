@@ -38,6 +38,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 4. etc...
 5. Follow setup [instructions](Link to file)
+6. when done visit http://dsr.inworld.net/lab?token=1d3b6bda00d286db517836e636be80f313ed4352e5913439
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](#)
