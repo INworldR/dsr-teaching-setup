@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- added my_test notebook
 - added start-juypterlab.sh to start daemon in a screen
   - multiserver setup mamba/dogo to enable https://dsr.inworld.net/lab (client cert is mandatory)
 - Initial project setup
